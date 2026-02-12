@@ -1,5 +1,5 @@
 # AI-Powered Legal Document Assistant
-# 🧠 AI-Powered Legal Document Review Assistant
+# 🧠 AI-Powered Legal Document Assistant
 
 An intelligent Retrieval-Augmented Generation (RAG) system designed to analyze and reason over complex EU AI regulations using LLM-powered semantic retrieval and contextual grounding.
 

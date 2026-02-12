@@ -1,4 +1,4 @@
-# Legal AI
+# Legal Document Assistant
 A chatbot to help you navigate through the complicated paths of the AI regulations inside EU
 
 Technically it is a RAG system implementation, using:

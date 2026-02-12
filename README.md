@@ -83,25 +83,24 @@ Streamlit Interface
 
 ## 💻 Installation & Setup
 
+
 ### 1️⃣ Clone the repository
 
-```bash
 git clone <your-repo-url>
 cd <repo-name>
 
 ### 2️⃣ Set OpenAI API Key
-```bash
-export OPENAI_API_KEY=your_key_here
 
+export OPENAI_API_KEY=your_key_here
 
 (For Windows PowerShell)
 
 setx OPENAI_API_KEY "your_key_here"
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the Application
+#### 4️⃣ Run the Application
 
 Navigate to the app folder:
 
@@ -109,4 +108,4 @@ cd app
 streamlit run app.py
 
 
-The application will launch locally in your browser.
+The application will launch locally in browser.
